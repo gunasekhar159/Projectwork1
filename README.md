@@ -1,59 +1,66 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Energy efficient data driven model for residential spaces in energy efficient buildings
+About
+The project focused on enhancing energy efficiency in residential spaces by leveraging data-driven techniques and smart energy management systems. The aim is to create a sustainable and cost-effective environment that balances energy consumption with comfort in residential settings, especially in buildings designed to be energy-efficient.
 
-## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Features
+Real-Time Energy Monitoring -Automated Climate Control
+Occupancy-Based Controls
+Predictive Analytics for Energy Optimization
+Renewable Energy Integration
+Predictive Maintenance for Appliances
+Requirements
+Hardware Requirements:
+IoT Sensors
 
-## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Smart Appliances and Devices
 
-## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Central Control Unit
 
-## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+Networking Equipment
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+Software Requirements:
+Data Collection and IoT Management Software
 
+Data Processing and Storage
 
-## Output
+Machine Learning
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+Security and Data Protection
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+System Architecture
+image
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+Output
+Output1 - Heating load
+2
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+Output2 - cooling load
+1
 
+Detection Accuracy: 99.9% and 99.6% Note: These metrics can be customized based on your actual performance evaluations.
 
-## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+Results and Impact
+image image
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+building energy performance has been investigated using different models to predict Heating and Cooling loads• We tried to learn how to tune different parameters in the models and obtained a very good prediction result (>99.5% on both Heating and Cooling loads, compared to the experimental data set)
 
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+Articles published / References
+Ali, M., & Shaaban, K. (2019). Data-driven approaches for smart building energy efficiency: A review. Renewable and Sustainable Energy Reviews, 102, 39-59.
 
+Allouhi, A., Jamil, A., & Rehman, S. (2018). Smart building energy management systems: A review of data-driven and machine learning approaches. Energy Reports, 4, 358-375.
 
+Asadi, S., Amiri, S. S., & Mottahedi, M. (2014). Energy efficiency in buildings: Data mining techniques and applications. Energy and Buildings, 110, 72-80.
 
+Aste, N., Buzzetti, M., & Leonforte, F. (2021). Smart technologies for energy-efficient building retrofitting: A data-driven approach. Energy Efficiency, 14, 101-117.
 
+Amasyali, K., & El-Gohary, N. M. (2018). A review of data-driven building energy consumption prediction studies. Renewable and Sustainable Energy Reviews, 81, 1192-1205.
+
+Balvedi, B. F., Ghisi, E., & Lamberts, R. (2018). A review of occupant behavior in building energy models. Energy and Buildings, 174, 30-47.
+
+Beccali, M., Finocchiaro, P., & Nocke, B. (2020). Smart energy-efficient buildings: A data-driven approach. Journal of Building Engineering, 30, 101-135.
+
+Birt, B. J., Newsham, G. R., & Beausoleil-Morrison, I. (2016). Energy performance of residential buildings: A data-driven approach. Applied Energy, 179, 506-514.
+
+Capozzoli, A., Piscitelli, M. S., & Brandi, S. (2017). Data analytics for occupancy-driven optimization of building energy performance. Energy and Buildings, 142, 245-257.
+
+Cheng, X., Ma, X., & Yan, D. (2020). Data-driven methods for improving building energy efficiency: A review. Building and Environment, 172, 106-135.
