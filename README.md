@@ -33,10 +33,12 @@ Security and Data Protection
 
 ### Output
 Output1 - Heating load
+
 ![image](https://github.com/user-attachments/assets/277e5f85-7789-4344-be2d-96820ee3501c)
 
 
 Output2 - cooling load
+
 ![image](https://github.com/user-attachments/assets/1c14a780-45c6-4ee0-a785-540dc631e3f6)
 
 
